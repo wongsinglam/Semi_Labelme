@@ -27,7 +27,7 @@ This repo is an extension of Wada's work [3], we extend Labelme with Deep learni
   pip install -e .
   ```
 
-- Launch semi_labelme
+- Launch semi_labelme in the terminal
   ```
   semi_labelme
   ```
