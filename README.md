@@ -34,7 +34,7 @@ This repo is an extension of Wada's work [3], we extend Labelme with Deep learni
   Once the GUI of semi_labelme is launched, you have successfully installed this tool!
 ## Tutorials
 
-It is easy to use semi_labelme which is the same as Labelme (please see [Labelme tutorials](https://github.com/wkentaro/labelme/tree/main/examples/tutorial#tutorial-single-image-example)). But in semi_labelme, you can just click 'Detect' button, then, the annotations are finished! Before you use detection function, you need to setup the config file which is in semi_labelme/config/default_config.yaml.
+It is easy to use semi_labelme which is the same as Labelme (please see [Labelme tutorials](https://github.com/wkentaro/labelme/tree/main/examples/tutorial#tutorial-single-image-example)). But in semi_labelme, you can just click 'Detect' button, then, the annotations are finished! Before you use detection function, you need to setup the config file which is in semi_labelme/config/default_config.yaml and prepare your deep learning pretrained model and its corresponding config file in ./work_dirs.
 
 - Config Settings
   1. You need to prepare a config_file to decide which detector you are going to use and its corresponding pre-trained model. please see [model zoo in mmdetection](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/model_zoo.md).
