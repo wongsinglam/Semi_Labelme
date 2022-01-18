@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Semi_labelme
+Comment=Image Polygonal Annotation with Python
+Exec=semi_labelme
+Icon=semi_labelme
+Terminal=false
+Type=Application
+Categories=Graphics;RasterGraphics;
