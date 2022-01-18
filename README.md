@@ -13,7 +13,7 @@ This repo is an extension of Wada's work [3], we extend Labelme with Deep learni
   ```
 - Install Pytorch and torchvision.
   ```
-  Following the [official instructions](https://pytorch.org/)
+  Following the [official instructions](https://pytorch.org)
   ```
 - Install [mmcv and mmdetection](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/get_started.md) and we would recommend you install it with [MIM](https://github.com/open-mmlab/mim).
   ```
