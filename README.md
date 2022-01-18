@@ -59,7 +59,7 @@ It is easy to use semi_labelme which is the same as Labelme (please see [Labelme
 If you use this tool in your research, plsea cite this repo.
 
 ```
-@software{singlam_semi_labelme,
+@software{wang_semi_labelme,
 author = {Wang, Shenglin and Zhang, Jingqiong and Mihaylova, Lyudmila},
 doi = {},
 license = {GPL-3},
