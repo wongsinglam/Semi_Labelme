@@ -60,11 +60,11 @@ If you use this tool in your research, plsea cite this repo.
 
 ```
 @software{singlam_semi_labelme,
-author = {Wang, Shenglin and Mihaylova, Lyudmila and Zhang, Jingqiong},
+author = {Wang, Shenglin and Zhang, Jingqiong and Mihaylova, Lyudmila},
 doi = {},
 license = {GPL-3},
 title = {Semi-Automated Labelme, A Deep Learning Based Annotation Tool},
-url = {https://github.com/wongsinglam}
+url = {https://github.com/wongsinglam/semi_labelme}
 }
 ```
 
