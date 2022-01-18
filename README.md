@@ -11,9 +11,9 @@ This repo is an extension of Wada's work [3], we extend Labelme with Deep learni
    conda create -n semi_labelme python=3.7 -y
    conda activate semi_labelme
   ```
-- Install Pytorch and torchvision.
-  ```
-  Following the [official instructions](https://pytorch.org/).
+- Install Pytorch and torchvision. Following the [official instructions](https://pytorch.org/), e.g.,
+  ```shell
+  conda install pytorch torchvision -c pytorch
   ```
 - Install [mmcv and mmdetection](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/get_started.md) and we would recommend you install it with [MIM](https://github.com/open-mmlab/mim).
   ```
