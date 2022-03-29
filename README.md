@@ -1,5 +1,5 @@
 # Semi-automated Labelme
-
+[![DOI](https://zenodo.org/badge/449187663.svg)](https://zenodo.org/badge/latestdoi/449187663)
 ## Description
 [Labelme](https://github.com/wkentaro/labelme) is an image annotation tool for machine learning and deep learning inspired by [1, 2]. This tool has great impact in the development of object detection and segmentation with deep learning. Thanks to [Wada's contribution](https://github.com/wkentaro/labelme) [3], Labelme is developed and many researchers enjoy great benefits from it. 
 
