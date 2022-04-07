@@ -64,7 +64,7 @@ author = {Wang, Shenglin and Zhang, Jingqiong and Wang, Peng and Mihaylova, Lyud
 doi = {10.5281/zenodo.6393953},
 license = {GPL-3},
 title = {Semi-Automated Labelme, A Deep Learning Based Annotation Tool},
-url = {https://github.com/wongsinglam/semi_labelme}
+url = {https://github.com/wongsinglam/Semi_Labelme}
 }
 ```
 
