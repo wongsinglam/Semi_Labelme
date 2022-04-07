@@ -56,7 +56,7 @@ It is easy to use semi_labelme which is the same as Labelme (please see [Labelme
 
 ## Citation
 
-If you use this tool in your research, plsea cite this repo.
+If you use this tool in your research, plsea cite this repository.
 
 ```
 @software{wang_semi_labelme,
