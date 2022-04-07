@@ -3,7 +3,7 @@
 ## Description
 [Labelme](https://github.com/wkentaro/labelme) is an image annotation tool for machine learning and deep learning inspired by [1, 2]. This tool has great impact in the development of object detection and segmentation with deep learning. Thanks to [Wada's contribution](https://github.com/wkentaro/labelme) [3], Labelme is developed and many researchers enjoy great benefits from it. 
 
-This repo is an extension of Wada's work [3], we extend Labelme with Deep learning, consequently, we can speed up annotating images with the assistance of deep learning. In this repo, we use mmdetection [4], a famous detection toolbox, to achieve semi-automated annotating images so that users can use detector to get annotations without manually annotating.
+This repository is an extension of Wada's work [3], we extend Labelme with Deep learning, consequently, we can speed up annotating images with the assistance of deep learning. In this repo, we use mmdetection [4], a famous detection toolbox, to achieve semi-automated annotating images so that users can use the detector to provide annotated images without manual annotations.
 
 ## Installation
 - Python environment and we recommand Python 3.7.
@@ -34,7 +34,7 @@ This repo is an extension of Wada's work [3], we extend Labelme with Deep learni
   Once the GUI of semi_labelme is launched, you have successfully installed this tool!
 ## Tutorials
 
-It is easy to use semi_labelme which is the same as Labelme (please see [Labelme tutorials](https://github.com/wkentaro/labelme/tree/main/examples/tutorial#tutorial-single-image-example)). But in semi_labelme, you can just click 'Detect' button, then, the annotations are finished! Before you use detection function, you need to setup the config file which is in semi_labelme/config/default_config.yaml and prepare your deep learning pretrained model and its corresponding config file in ./work_dirs.
+It is easy to use semi_labelme which is the same as Labelme (please see [Labelme tutorials](https://github.com/wkentaro/labelme/tree/main/examples/tutorial#tutorial-single-image-example)). But in semi_labelme, you can just click on the 'Detect' button, then, the annotations are finished! Before you use the detection function, you need to set up the config file which is in semi_labelme/config/default_config.yaml and prepare your deep learning pretrained model and its corresponding config file in ./work_dirs.
 
 - Config Settings
   1. You need to prepare a config_file to decide which detector you are going to use and its corresponding pre-trained model. please see [model zoo in mmdetection](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/model_zoo.md).
